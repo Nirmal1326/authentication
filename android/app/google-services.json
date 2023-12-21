@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "28172929772",
+    "project_id": "sampleauth-2900f",
+    "storage_bucket": "sampleauth-2900f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28172929772:android:0962c3c93cec677c3cb3c9",
+        "android_client_info": {
+          "package_name": "com.example.gateway"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4DLr65q1mlfgODwbEjyvZ465FK7U5KKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
